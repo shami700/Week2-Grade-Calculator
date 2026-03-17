@@ -1,0 +1,19 @@
+Test Case 1:
+Input: 95
+Output: Grade A
+
+Test Case 2:
+Input: 82
+Output: Grade B
+
+Test Case 3:
+Input: 45
+Output: Grade F
+
+Test Case 4:
+Input: -10
+Output: Invalid input
+
+Test Case 5:
+Input: abc
+Output: Error handled
